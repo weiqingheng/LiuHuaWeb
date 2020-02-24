@@ -1,0 +1,6 @@
+E:\C#Study\aps.net\LiuHuaWeb\LiuHuaWeb\LiuHuaWeb\bin\LiuHuaWeb.dll
+E:\C#Study\aps.net\LiuHuaWeb\LiuHuaWeb\LiuHuaWeb\bin\LiuHuaWeb.pdb
+E:\C#Study\aps.net\LiuHuaWeb\LiuHuaWeb\LiuHuaWeb\bin\NVelocity.dll
+E:\C#Study\aps.net\LiuHuaWeb\LiuHuaWeb\LiuHuaWeb\obj\Debug\LiuHuaWeb.csprojResolveAssemblyReference.cache
+E:\C#Study\aps.net\LiuHuaWeb\LiuHuaWeb\LiuHuaWeb\obj\Debug\LiuHuaWeb.dll
+E:\C#Study\aps.net\LiuHuaWeb\LiuHuaWeb\LiuHuaWeb\obj\Debug\LiuHuaWeb.pdb
