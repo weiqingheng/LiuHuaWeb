@@ -26,6 +26,23 @@ namespace LiuHuaWeb
 
             string html = vltWriter.GetStringBuilder().ToString();
             return html;
+
+        }
+        /// <summary>
+        /// 判断是否有上传文件
+        /// </summary>
+        /// <param name="file"></param>
+        /// <returns></returns>
+        public static bool HasFile(HttpPostedFile file)
+        {
+            if (file == null)
+            {
+                return false;
+            }
+            else
+            {
+                return file.ContentLength > 0;
+            }
         }
     }
 }
